@@ -2,7 +2,6 @@
 - 👀 I’m interested in Automation
 - 🌱 I’m currently learning STBT Automation
 
-- 📫 How to reach me - arunaradhya@gmail.com
 - 📫 How to reach me - aaradhya@synamedia.com
 
 <!---
